@@ -1,3 +1,5 @@
+clc;
+clear all;
 grade = input ('What percent is your grade?');
     if (grade >= 90)
         a = 1;
